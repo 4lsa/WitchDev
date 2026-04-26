@@ -1,0 +1,10 @@
+WitchDev/
+WitchDevTests/
+WitchDevUITests/
+WitchDev.xcodeproj/
+build/
+project.yml
+build.sh
+AGENT.md
+PLAN.md
+WitchDev.dmg
